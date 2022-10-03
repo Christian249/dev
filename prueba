@@ -1,0 +1,14 @@
+#include <stdio.h>
+void main()
+{
+    int numero=0; //declaracion
+    float valor = 0.0 ;
+    char letra = ;
+
+    const int total = 89; //No Cambian porque es constante
+
+    numero = 6;
+    numero = numero/4;
+
+    
+}
